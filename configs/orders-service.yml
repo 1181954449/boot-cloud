@@ -1,0 +1,7 @@
+
+# 不管什么场景下都需要配置的放在不带后缀的配置文件中
+# 需要根据场景变化的分别卸载自己后缀的配置文件中
+feign:
+  hystrix:
+    enabled: true
+test: hahaha
